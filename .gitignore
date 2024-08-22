@@ -11,6 +11,7 @@ redis-per-second.conf
 redis.conf
 redis-verify-peer.conf
 dump.rdb
+!.github
 
 # Directories created by "test_with_redis" make target.
 63*
